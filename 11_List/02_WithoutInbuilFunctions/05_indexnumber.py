@@ -1,5 +1,5 @@
 # even index -- element
-# odd index -- elementlst=[]
+# odd index -- element
 
 lst=[]
 n=int(input("Enter number of elements range :: "))
